@@ -2,8 +2,8 @@
 
 ## Switch
 
-#### False State
-<img src="https://github.com/ArunKumarVallal99/UserInterface/blob/Switch/ScreenShots/Screenshot_1606295637.png" height="300">
+#### Before
+<img src="https://github.com/ArunKumarVallal99/UserInterface/blob/KeyboardAvoidingView/ScreenShots/Screenshot_1606303020.png" height="300">
 
 ### True State
-<img src="https://github.com/ArunKumarVallal99/UserInterface/blob/Switch/ScreenShots/Screenshot_1606295843.png" height="300">
+<img src="https://github.com/ArunKumarVallal99/UserInterface/blob/KeyboardAvoidingView/ScreenShots/Screenshot_1606303023.png" height="300">
